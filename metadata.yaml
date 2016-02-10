@@ -1,0 +1,30 @@
+_repo: Writing-Illuminating-Lettering-8-pp-Examples-in-Red-Black-and-24-pp-of-Collotypes_47089
+contributor:
+  contributor:
+    agent_name: Gill, A. E. R.
+    gutenberg_agent_id: '44128'
+    url: http://www.gutenberg.org/2009/agents/44128
+  illustrators:
+  - agent_name: Rooke, Noel
+    birthdate: 1881
+    gutenberg_agent_id: '32164'
+    url: http://www.gutenberg.org/2009/agents/32164
+  - &id001
+    agent_name: Johnston, Edward
+    gutenberg_agent_id: '44127'
+    url: http://www.gutenberg.org/2009/agents/44127
+creator:
+  author: *id001
+description: ''
+gutenberg_issued: '2014-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47089'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Writing & Illuminating, & Lettering
+
+  8 pp. Examples in Red & Black and 24 pp. of Collotypes.'
+url: http://www.gutenberg.org/ebooks/47089
