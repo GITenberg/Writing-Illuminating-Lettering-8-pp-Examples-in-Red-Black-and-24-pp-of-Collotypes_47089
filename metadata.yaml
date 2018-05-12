@@ -1,4 +1,5 @@
 _repo: Writing-Illuminating-Lettering-8-pp-Examples-in-Red-Black-and-24-pp-of-Collotypes_47089
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Gill, A. E. R.
@@ -13,9 +14,14 @@ contributor:
     agent_name: Johnston, Edward
     gutenberg_agent_id: '44127'
     url: http://www.gutenberg.org/2009/agents/44127
+covers:
+- cover_type: archival
+  image_path: 47089-h/images/cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47089#Writing-Illuminating-Lettering-8-pp-Examples-in-Red-Black-and-24-pp-of-Collotypes
 gutenberg_issued: '2014-10-10'
 gutenberg_type: Text
 identifiers:
