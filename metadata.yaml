@@ -30,6 +30,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Writing & Illuminating, & Lettering
 
   8 pp. Examples in Red & Black and 24 pp. of Collotypes.'
